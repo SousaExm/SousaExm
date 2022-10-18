@@ -1,5 +1,6 @@
-<div align="center">
+<div align="left">
 <h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
+<br>
 
 <div display="flex">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sousaexm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -27,15 +28,13 @@
 ##
 ### Curiosidades sobre mim
     
-<ul align="center">
-    <p>🔭 Atualmente sou Dev FullStack Junior na <a href="https://twin.com.br/pt/" target="__blank">Twin Consultoria</a></p>
-    <p>📚 Cursando Gestao da Tecnologia da Informação - FATEC Franco da Rocha</p>
-    <p>🌱 Focado em PHP e VueJs no momento</p>
-    <p>💻 Apaixonado por desenvolvimento de software!</p>
-    <p>🙏 Cristão</p>
-    <p>🎸 Músico</p>
-    <p>🍰 Aspirante a confeiteiro</p>
-</ul>
+- 🔭 Atualmente sou Dev FullStack Junior na <a href="https://twin.com.br/pt/" target="__blank">Twin Consultoria</a></p>
+- 📚 Cursando Gestão da Tecnologia da Informação - FATEC Franco da Rocha</p>
+- 🌱 Focado em PHP e VueJs no momento</p>
+- 💻 Apaixonado por desenvolvimento de software!</p>
+- 🙏 Cristão</p>
+- 🎸 Músico</p>
+- 🍰 Aspirante a confeiteiro</p>
 
 ##
 ### Entre em contato
