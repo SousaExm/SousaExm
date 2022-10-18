@@ -1,5 +1,5 @@
 <div align="left">
-<h2>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
+<h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
 <br>
 
 <div display="flex">
