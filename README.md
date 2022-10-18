@@ -28,7 +28,7 @@
 - 🔭 Atualmente sou Dev FullStack Junior na [Twin Consultoria](https://twin.com.br/pt/)
 - 📚 Cursando Gestao da Tecnologia da Informação
 - 🌱 Focado em PHP e VueJs no momento
-- 💻 Apaixonado por desenvolver!
+- 💻 Apaixonado por desenvolvimento de software!
 - 🙏 Cristão
 - 🎸 Músico
 - 🍰 Aspirante a confeiteiro
