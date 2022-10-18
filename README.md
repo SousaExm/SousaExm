@@ -1,4 +1,4 @@
-<h2 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Renato Sousa aqui!</h1>
+<h2 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">, seja muito bem vindo!</h1>
 
 <div align="left" display="flex">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sousaexm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
